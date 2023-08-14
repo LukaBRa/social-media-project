@@ -19,6 +19,6 @@ Guest is able to:
 Admin is able to:
     - Remove reported comments or posts or remove them from reported list.
 
-Admin is created for practice, this type of user is not necessery.
+Admin is created for practice.
 Notification system is implemented using Laravel Notifications. Notifications are being sent/received in real-time.
 Both users are able to reset password. They are going to receive reset link with reset code on their email adress. Code is used to prove users ownership over account. When user change password, link wont be available for second use.
